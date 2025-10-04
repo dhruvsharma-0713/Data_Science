@@ -1,0 +1,14 @@
+
+
+
+[
+    {"id": 1, "name": "Dhruv", "adress": {"city": "Bulandshahr", "zipcode": "203001"}},
+    {"id": 2, "name": "Arun", "adress": {"city": "Delhi", "zipcode": "110001"}},
+    {"id": 3, "name": "Akhil", "adress": {"city": "Chennai", "zipcode": "600001"}},
+    {"id": 4, "name": "Abhishek", "adress": {"city": "Mumbai", "zipcode": "400001"}},
+    {"id": 5, "name": "Kirti", "adress": {"city": "Ladakh", "zipcode": "194101"}},
+    {"id": 6, "name": "Saumya", "adress": {"city": "Bengaluru", "zipcode": "560001"}},
+    {"id": 7, "name": "Khusi", "adress": {"city": "Noida", "zipcode": "201310"}},
+    {"id": 8, "name": "Shivam", "adress": {"city": "Kolkata", "zipcode": "700001"}},
+    {"id": 9, "name": "Uttpal", "adress": {"city": "Dehradu", "zipcode": "248001"}}
+]
