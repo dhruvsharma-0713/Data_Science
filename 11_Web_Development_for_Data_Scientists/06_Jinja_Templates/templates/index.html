@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jinja_tutorial</title>
+</head>
+<body>
+    hey I am {{name}} and I am using Jinja 2.
+    <p>My primary language is {{lang}}</p>
+
+    {% for item in lucky %}
+        <p>{{item}}</p>
+    {% endfor %}
+    {{footer | safe}}
+</body>
+</html>

@@ -1,0 +1,1 @@
+alert("Hello from the 03_script.js file");

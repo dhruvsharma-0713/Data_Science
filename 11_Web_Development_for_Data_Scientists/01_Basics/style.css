@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 1000px;
+    height: 1000px;
+    color: rgb(183, 57, 43);
+    border: 1px solid black;
+}
+
+nav{
+    padding: 12px;
+    display: flex;
+    background-color: whitesmoke;
+    color: bisque;
+    font-size: 28px;
+}
